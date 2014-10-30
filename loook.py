@@ -5,7 +5,6 @@
     author: Steve Göring
     contact: stg7@gmx.de
     2014
-
 """
 """
     This file is part of loook.
